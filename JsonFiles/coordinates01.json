@@ -1,0 +1,35 @@
+{
+  "relativePosition": {
+    "type": "Property",
+    "value": {
+      "type": "LineString",
+      "measurementUnit": "m",
+      "coordinates": [
+        [
+          3,
+          2
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    }
+  }
+}
